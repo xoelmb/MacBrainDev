@@ -11,7 +11,7 @@ Nicola Micali *et al.*, **Molecular programs of regional specification and neura
   - `1.EWCEanalysis.ipynb`: contains code to perform EWCE analysis, including finding marker genes, SCT-normalization and CellTypeData object.
   - `2.EWCEresults.ipynb`: contains code to reproduce the figures 7B and supplementary 16C in the publication.
   - `3.MarkersAndExpressionData.ipynb`: contains helper functions to gather expression summaries of defined groups of cells, including finding marker genes, scaling expression and gathering expression averages. Used in following figures.
-  - `4.DiseaseExpressionInPCs.ipynb`: contains code to gather expression data from disease genes and plot it in the different subsets of the data. It also compares markers and disease genes to compute the fisher test of the overlaps, and contains functions to plot it. Generates plots in 
+  - `4.DiseaseExpressionInPCs.ipynb`: contains code to gather expression data from disease genes and plot it in the different subsets of the data. It also compares markers and disease genes to compute the fisher test of the overlaps, and contains functions to plot it.
   - `5.PCmarkers.ipynb`: the code plots the expression of Patterning center marker genes in the whole data. The genes are also prioritised to those the least expressed in other cell types of the neural lineage or early timepoints.
 
 - `raw/`: contains input files, specifically:
@@ -23,4 +23,4 @@ Nicola Micali *et al.*, **Molecular programs of regional specification and neura
 - `data/`: contains intermediate and processed files produced by the notebooks. 
 
 
-* contact the authors of the study to request access to the expression data.
+`*` contact the authors of the study to request access to the expression data.
