@@ -1,0 +1,113 @@
+cluster	subclass	label	sample
+PC FGF17	rostral	Patterning centers	all
+PC SFRP1	rostral	Patterning centers	all
+PC NKX2-1 LMO1	rostral	Patterning centers	all
+PC NKX2-1 NKX6-2	rostral	Patterning centers	all
+GE RG NKX2-1 DLK1	ventral	Patterning centers	all
+GE RG NKX2-1 OLIG1	ventral	Patterning centers	all
+PC NKX2-1 RAX	caudal	Patterning centers	all
+PC RSPO3	caudal	Patterning centers	all
+PC TTR	caudal	Patterning centers	all
+PC SFRP2	caudal	Patterning centers	all
+PC TCF7L2	caudal	Patterning centers	all
+NESC RSPO3 DIRAS3	early	dorsal NSC	all
+NESC RSPO3 TEX15	early	dorsal NSC	all
+vRG HMGA2 CCND1	early	dorsal NSC	all
+RGC FABP7 PMP22	early	dorsal NSC	all
+vRG SAT1 STMN2	late	dorsal NSC	all
+tRG CRYAB MEST	late	dorsal NSC	all
+tRG CRYAB FNDC1	late	dorsal NSC	all
+oRG HOPX TNC	late	dorsal NSC	all
+oRG HOPX APOE	late	dorsal NSC	all
+Ependymal FOXJ1	late	dorsal NSC	all
+IPC EOMES VIM	enIPC	enIPC	all
+IPC EOMES NEUROG1	enIPC	enIPC	all
+IPC EOMES NHLH1 deep	enIPC	enIPC	all
+IPC EOMES NHLH1 up	enIPC	enIPC	all
+ExN SOX5 PALMD	deep	Excitatory neurons	all
+ExN SOX5 ID2	deep	Excitatory neurons	all
+ExN SOX5 NR4A2 GRID2	deep	Excitatory neurons	all
+ExN SOX5 SYT6	deep	Excitatory neurons	all
+ExN SOX5 KCNV1	deep	Excitatory neurons	all
+ExN SOX5 OPRK1 NR4A2	deep	Excitatory neurons	all
+ExN SOX5 OPRK1 SULF1	deep	Excitatory neurons	all
+ExN CUX2 PALMD	upper	Excitatory neurons	all
+ExN CUX2 ADRA2A	upper	Excitatory neurons	all
+ExN CUX2 ACTN2	upper	Excitatory neurons	all
+ExN TSHZ2 NR4A3	upper	Excitatory neurons	all
+IPC RSPO3 NEUROG1	crIPC	CR	all
+IPC RSPO3 NHLH1	crIPC	CR	all
+CR ETV1	CR	CR	all
+CR TP73	CR	CR	all
+GE CR ZFHX3	CR	CR	all
+GE RG HMGA2 NKX6-2	early	GE NSC	all
+GE RG HMGA2 NR2F2	early	GE NSC	all
+GE RG HOPX STMN1	late	GE NSC	all
+GE RG HOPX NRG1	late	GE NSC	all
+GE RG STMN2 SOX5	late	GE NSC	all
+GE RG CRYAB	late	GE NSC	all
+GE Ependymal FOXJ1	late	GE NSC	all
+inIPC ASCL1 DLX1	inIPC	inIPC	all
+inIPC ASCL1 SFRP2	inIPC	inIPC	all
+inIPC ASCL1 GSX1	inIPC	inIPC	all
+inIPC ASCL1 GADD45G	inIPC	inIPC	all
+inIPC ASCL1 GPX1	inIPC	inIPC	all
+inIPC ASCL1 SP8	inIPC	inIPC	all
+inIPC ASCL1 NKX2-1	inIPC	inIPC	all
+inIPC DLX1 NR2F2	inIPC	inIPC	all
+InN NKX2-1 CCND2	LHX6	Inhibitory neurons	all
+InN LHX8 ZIC1	LHX6	Inhibitory neurons	all
+InN LHX6 CCK	LHX6	Inhibitory neurons	all
+InN LHX6 CRABP1	LHX6	Inhibitory neurons	all
+InN LHX6 MAF	LHX6	Inhibitory neurons	all
+InN LHX6 SST RELN	LHX6	Inhibitory neurons	all
+InN LHX6 SST NPY	LHX6	Inhibitory neurons	all
+InN LHX6 DCN	LHX6	Inhibitory neurons	all
+InN LHX6 GUCY1A2	LHX6	Inhibitory neurons	all
+InN HMX1	NR2F2 & SP8	Inhibitory neurons	all
+InN NR2F2 CRH	NR2F2 & SP8	Inhibitory neurons	all
+InN NR2F2 LAMP5	NR2F2 & SP8	Inhibitory neurons	all
+InN NR2F2 VIP	NR2F2 & SP8	Inhibitory neurons	all
+InN NR2F2 SP8 KIT	NR2F2 & SP8	Inhibitory neurons	all
+InN NR2F2 SP8	NR2F2 & SP8	Inhibitory neurons	all
+InN SP8 CRH	NR2F2 & SP8	Inhibitory neurons	all
+InN SP8 VIP	NR2F2 & SP8	Inhibitory neurons	all
+InN SP8 MEIS2 RND3	SP8 & MEIS2	Inhibitory neurons	all
+InN SP8 PAX6	SP8 & MEIS2	Inhibitory neurons	all
+InN ZIC1 ZIC2	SP8 & MEIS2	Inhibitory neurons	all
+InN GNRH1	SP8 & MEIS2	Inhibitory neurons	all
+InN SFRP2 MEIS2	SP8 & MEIS2	Inhibitory neurons	all
+InN SIX3 ZFHX3	SP8 & MEIS2	Inhibitory neurons	all
+InN FOXP1 ISL1	SP8 & MEIS2	Inhibitory neurons	all
+InN FOXP1 PENK	SP8 & MEIS2	Inhibitory neurons	all
+InN FOXP2 TSHZ1	SP8 & MEIS2	Inhibitory neurons	all
+gIPC EGFR	gIPC	gIPC	all
+gIPC EGFR MKI67	gIPC	gIPC	all
+aIPC IGFBP2	gIPC	gIPC	all
+oIPC DLL1	gIPC	gIPC	all
+Astro EGFR	Astro	Astro	all
+Astro GFAP	Astro	Astro	all
+Astro MFGE8	Astro	Astro	all
+OPC PDGFRA	OPC	OPC&Oligo	all
+OPC PDGFRA MKI67	OPC	OPC&Oligo	all
+OPC PCDH15 COL9A1	OPC	OPC&Oligo	all
+Oligo MBP PLP1	Oligo	OPC&Oligo	all
+Mesenchymal LUM CYTL1	Mes	Mes	all
+Mesenchymal FOXD3 PLP1	Mes	Mes	all
+Microglia PTPRC C1QC	Immune	Immune	all
+T PTPRC CD69	Immune	Immune	all
+RB HBA1 HBE1	RB	RB&Vas	all
+RB HBA1 SNCA	RB	RB&Vas	all
+Endothelial CLDN5 FLT1	Endo	RB&Vas	all
+Endothelial CLDN5 RGS5	Endo	RB&Vas	all
+Pericyte GRM8	Mural	RB&Vas	all
+SMC ACTA2	Mural	RB&Vas	all
+VLMC PTGDS DSP	VLMC	RB&Vas	all
+Cls FGF17 LGI1	PAT-related subtypes	PAT-related subtypes	all
+Cls LHX9 EBF1	PAT-related subtypes	PAT-related subtypes	all
+Cls RSPO3 SOX1	PAT-related subtypes	PAT-related subtypes	all
+Cls GSX2 B3GAT2	PAT-related subtypes	PAT-related subtypes	all
+IPC FGF17	PAT-related subtypes	PAT-related subtypes	all
+IPC TCF7L2	PAT-related subtypes	PAT-related subtypes	all
+Neu TAGLN3 NRN1	PAT-related subtypes	PAT-related subtypes	all
+Neu TAGLN3 ONECUT2	PAT-related subtypes	PAT-related subtypes	all

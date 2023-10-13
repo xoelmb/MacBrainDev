@@ -1,0 +1,421 @@
+AMYOTROPHIC LATERAL SCLEROSIS	0
+Abortion, Tubal	0
+Absence Seizures	0
+Ache	0
+Acute Cerebrovascular Accidents	0
+Acute Confusional Senile Dementia	0
+Acute Kidney Insufficiency	0
+Acute Myeloid Leukemia (AML-M2)	0
+Acute Myeloid Leukemia, M1	0
+Acute Promyelocytic Leukemia	0
+Acute kidney injury	0
+Adenocarcinoma	0
+Adenocarcinoma of large intestine	0
+Adenocarcinoma of lung (disorder)	0
+Adenocarcinoma, Basal Cell	0
+Adenocarcinoma, Oxyphilic	0
+Adenocarcinoma, Tubular	0
+Adenoid Cystic Carcinoma	0
+Adult Medulloblastoma	1
+Adverse reaction to drug	0
+Age-Related Memory Disorders	0
+Alcohol Use Disorder	0
+Alcohol abuse	0
+Alcoholic Intoxication, Chronic	0
+Allergic Reaction	0
+Allodynia	0
+Alloxan Diabetes	0
+Alveolitis, Fibrosing	0
+Alzheimer Disease, Early Onset	0
+Alzheimer Disease, Late Onset	0
+Alzheimer's Disease	0
+Alzheimer's Disease, Focal Onset	0
+Amphetamine Abuse	0
+Amphetamine Addiction	0
+Amphetamine-Related Disorders	0
+Amyotrophic Lateral Sclerosis	0
+Amyotrophic Lateral Sclerosis, Familial	0
+Amyotrophic Lateral Sclerosis, Sporadic	0
+Anaplastic carcinoma	0
+Animal Mammary Neoplasms	0
+Anorectal Malformations	0
+Anxiety Disorders	0
+Anxiety States, Neurotic	0
+Anxiety neurosis (finding)	0
+Arsenic Encephalopathy	0
+Arsenic Induced Polyneuropathy	0
+Arsenic Poisoning	0
+Arsenic Poisoning, Inorganic	0
+Arthritis, Adjuvant-Induced	0
+Arthritis, Collagen-Induced	0
+Arthritis, Experimental	0
+Asthma	0
+Atherogenesis	0
+Atherosclerosis	0
+Atonic Absence Seizures	0
+Atrial Fibrillation	0
+Aura	0
+Autism Spectrum Disorders	0
+Autistic Disorder	0
+Autoimmune Diseases	0
+Awakening Epilepsy	0
+Benign Neoplasm	0
+Biliary Cirrhosis, Primary, 1	0
+Biliary cirrhosis	0
+Bipolar Disorder	0
+Bladder Neoplasm	0
+Brain Ischemia	0
+Breast Carcinoma	0
+Breast adenocarcinoma	0
+Brittle diabetes	0
+Calcinosis	0
+Carcinoma	0
+Carcinoma, Cribriform	0
+Carcinoma, Granular Cell	0
+Carcinoma, Spindle-Cell	0
+Carcinoma, Transitional Cell	0
+Carcinomatosis	0
+Cardiac Hypertrophy	0
+Cardiomegaly	0
+Cardiomyopathies	0
+Cardiomyopathies, Primary	0
+Cardiomyopathy, Dilated	0
+Cardiomyopathy, Familial Idiopathic	0
+Celiac Disease	0
+Cerebral Ischemia	0
+Cerebrovascular accident	0
+Chemical and Drug Induced Liver Injury	0
+Chemically-Induced Liver Toxicity	0
+Childhood Acute Lymphoblastic Leukemia	0
+Childhood Medulloblastoma	1
+Cholestasis	0
+Chromophobe Renal Cell Carcinoma	0
+Chronic Lymphocytic Leukemia	0
+Ciliopathies	0
+Cirrhosis	0
+Cleft Palate	0
+Cleft palate, isolated	0
+Clonic Seizures	0
+Cocaine Abuse	0
+Cocaine Dependence	0
+Cocaine-Related Disorders	0
+Collecting Duct Carcinoma of the Kidney	0
+Colonic Neoplasms	0
+Colorectal Carcinoma	0
+Colorectal Neoplasms	0
+Combined immunodeficiency	0
+Complex Partial Status Epilepticus	0
+Complex partial seizures	0
+Condition, Preneoplastic	0
+Congenital Heart Defects	0
+Congenital small ears	0
+Congestive heart failure	0
+Contact Dermatitis	0
+Contact hypersensitivity	0
+Conventional (Clear Cell) Renal Cell Carcinoma	0
+Convulsions	0
+Convulsive Seizures	0
+Coronary Arteriosclerosis	0
+Coronary Artery Disease	0
+Craniofacial Abnormalities	0
+Crohn Disease	0
+Crohn's disease of large bowel	0
+Crohn's disease of the ileum	0
+Cutaneous Melanoma	0
+Degenerative polyarthritis	0
+Depression, Bipolar	0
+Depression, Neurotic	0
+Depressive Syndrome	0
+Depressive disorder	0
+Dermatitis, Allergic Contact	0
+Dermatologic disorders	0
+Desmoplastic Medulloblastoma	1
+Diabetes Mellitus, Experimental	0
+Diabetes Mellitus, Insulin-Dependent	0
+Diabetes Mellitus, Ketosis-Prone	0
+Diabetes Mellitus, Non-Insulin-Dependent	0
+Diabetes Mellitus, Sudden-Onset	0
+Diabetes, Autoimmune	0
+Diabetic Nephropathy	0
+Diaphragmatic Hernia	0
+Diffuse Large B-Cell Lymphoma	0
+Disease Exacerbation	0
+Disorder of eye	0
+Disproportionate short stature	0
+Drug Dependence	0
+Drug Use Disorders	0
+Drug Withdrawal Symptoms	0
+Drug abuse	0
+Drug habituation	0
+Drug toxicity	0
+Drug-Induced Acute Liver Injury	0
+Drug-Induced Liver Disease	0
+Dystonia	0
+Early Pregnancy Loss	0
+Endogenous depression	0
+Endometrial Carcinoma	0
+Endometrial Neoplasms	0
+Endometrioma	0
+Endometriosis	0
+Epilepsy	0
+Epilepsy, Cryptogenic	0
+Epileptic Seizures	0
+Epileptic drop attack	0
+Esophageal Neoplasms	0
+Experimental Hepatoma	0
+Experimental Lung Inflammation	0
+Familial Alzheimer Disease (FAD)	0
+Familial Nonmedullary Thyroid Cancer	0
+Familial dilated cardiomyopathy	0
+Familial thoracic aortic aneurysm and aortic dissection	0
+Fatty Liver	0
+Fibrosis	0
+Fibrosis, Liver	0
+Gastric Adenocarcinoma	0
+Gastrointestinal Stromal Sarcoma	0
+Gastrointestinal Stromal Tumors	0
+Generalized Absence Seizures	0
+Generalized seizures	0
+Giant Cell Glioblastoma	1
+Glioblastoma	1
+Glioblastoma Multiforme	1
+Glioma	1
+Global developmental delay	0
+Grand Mal Status Epilepticus	0
+Gustatory seizure	0
+HIV Coinfection	0
+HIV Infections	0
+Heart Decompensation	0
+Heart Diseases	0
+Heart Failure, Right-Sided	0
+Heart failure	0
+Hepatitis, Drug-Induced	0
+Hepatitis, Toxic	0
+Hepatoma, Morris	0
+Hepatoma, Novikoff	0
+Hepatomegaly	0
+Hereditary Diffuse Gastric Cancer	0
+Hyperalgesia	0
+Hyperalgesia, Primary	0
+Hyperalgesia, Secondary	0
+Hyperalgesia, Thermal	0
+Hypersensitivity	0
+Hypertensive disease	0
+Hypertrophic Cardiomyopathy	0
+Hypotension	0
+IIeocolitis	0
+Inflammation	0
+Influenza	0
+Inherited neuropathies	0
+Insulin Resistance	0
+Insulin Sensitivity	0
+Intellectual Disability	0
+Jacksonian Seizure	0
+Juvenile arthritis	0
+Juvenile psoriatic arthritis	0
+Juvenile-Onset Still Disease	0
+Kidney Diseases	0
+Kidney Failure, Acute	0
+Kidney Failure, Chronic	0
+Kidney Neoplasm	0
+L2 Acute Lymphoblastic Leukemia	0
+Left-Sided Heart Failure	0
+Leigh Disease	0
+Leukemia, Myelocytic, Acute	0
+Libman-Sacks Disease	0
+Liver Cirrhosis	0
+Liver Cirrhosis, Experimental	0
+Liver Dysfunction	0
+Liver Neoplasms, Experimental	0
+Liver carcinoma	0
+Liver diseases	0
+Liver neoplasms	0
+Lobar Pneumonia	0
+Lung Neoplasms	0
+Lung diseases	0
+Lupus Erythematosus, Systemic	0
+Lymphoma	0
+MYELODYSPLASTIC SYNDROME	0
+Major Depressive Disorder	0
+Male infertility	0
+Male sterility	0
+Malignant Glioma	1
+Malignant Head and Neck Neoplasm	0
+Malignant Neoplasms	0
+Malignant mesothelioma	0
+Malignant neoplasm of breast	0
+Malignant neoplasm of esophagus	0
+Malignant neoplasm of kidney	0
+Malignant neoplasm of liver	0
+Malignant neoplasm of lung	0
+Malignant neoplasm of mouth	0
+Malignant neoplasm of ovary	0
+Malignant neoplasm of pancreas	0
+Malignant neoplasm of prostate	0
+Malignant neoplasm of salivary gland	0
+Malignant neoplasm of skin	0
+Malignant neoplasm of stomach	0
+Malignant neoplasm of urinary bladder	0
+Malignant tumor of colon	0
+Mammary Carcinoma, Animal	0
+Mammary Carcinoma, Human	0
+Mammary Neoplasms	0
+Mammary Neoplasms, Experimental	0
+Mammary Neoplasms, Human	0
+Manic	0
+Manic Disorder	0
+Mechanical Allodynia	0
+Medulloblastoma	1
+Medullomyoblastoma	1
+Melancholia	0
+Melanotic medulloblastoma	1
+Memory Disorder, Semantic	0
+Memory Disorder, Spatial	0
+Memory Disorders	0
+Memory Loss	0
+Memory impairment	0
+Mental Depression	0
+Mental Retardation, Psychosocial	0
+Mental deficiency	0
+Mesothelioma	0
+Metastatic melanoma	0
+Microcalcification	0
+Microcephaly	0
+Miscarriage	0
+Mitochondrial Diseases	0
+Mood Disorders	0
+Mouth Neoplasms	0
+Multiple Myeloma	0
+Multiple Sclerosis	0
+Multiple Sclerosis, Acute Fulminating	0
+Myocardial Diseases, Secondary	0
+Myocardial Failure	0
+Myocardial Infarction	0
+Myocardial Ischemia	0
+Myocardial Reperfusion Injury	0
+Myoclonic Seizures	0
+Necrosis	0
+Neoplasm Invasiveness	0
+Neoplasm Metastasis	0
+Neoplasm of uncertain or unknown behavior of breast	0
+Neoplasms	0
+Neoplasms, Experimental	0
+Neoplastic Cell Transformation	0
+Nerve Degeneration	0
+Nervous System, Organic Arsenic Poisoning	0
+Neuroblastoma	1
+Neurodevelopmental Disorders	0
+Nodular glomerulosclerosis	0
+Non-Convulsive Status Epilepticus	0
+Non-Small Cell Lung Carcinoma	0
+Non-alcoholic Fatty Liver Disease	0
+Non-epileptic convulsion	0
+Nonalcoholic Steatohepatitis	0
+Nonepileptic Seizures	0
+Nonmedullary Thyroid Carcinoma	0
+Nonorganic psychosis	0
+Nonsyndromic Deafness	0
+Obesity	0
+Olfactory seizure	0
+Organic Mental Disorders, Substance-Induced	0
+Osteoarthrosis Deformans	0
+Osteoporosis	0
+Osteoporosis, Age-Related	0
+Osteoporosis, Senile	0
+Osteosarcoma	0
+PROSTATE CANCER, HEREDITARY, 1	0
+Pain	0
+Pain, Burning	0
+Pain, Crushing	0
+Pain, Migratory	0
+Pain, Splitting	0
+Pancreatic Neoplasm	0
+Pancreatitis	0
+Papillary Renal Cell Carcinoma	0
+Papillary thyroid carcinoma	0
+Parkinson Disease	0
+Paroxysmal atrial fibrillation	0
+Peripheral Nervous System Diseases	0
+Persistent atrial fibrillation	0
+Petit mal status	0
+Pneumonia	0
+Pneumonitis	0
+Polyarthritis, Juvenile, Rheumatoid Factor Negative	0
+Polyarthritis, Juvenile, Rheumatoid Factor Positive	0
+Polycystic Ovary Syndrome	0
+Polydactyly	0
+Post-Traumatic Osteoporosis	0
+Precancerous Conditions	0
+Precursor Cell Lymphoblastic Leukemia Lymphoma	0
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0
+Prescription Drug Abuse	0
+Presenile dementia	0
+Primary Ciliary Dyskinesia	0
+Primary biliary cirrhosis	0
+Profound Mental Retardation	0
+Prostate cancer, familial	0
+Prostatic Neoplasms	0
+Proteinuria	0
+Psoriasis	0
+Psychotic Disorders	0
+Pulmonary Fibrosis	0
+Pulmonary Hypertension	0
+Pustulosis of Palms and Soles	0
+Radiating pain	0
+Regional enteritis	0
+Renal Cell Carcinoma	0
+Reperfusion Injury	0
+Respiratory Distress Syndrome, Adult	0
+Retinitis Pigmentosa	0
+Rheumatoid Arthritis	0
+Salivary Gland Neoplasms	0
+Sarcomatoid Renal Cell Carcinoma	0
+Schizophrenia	0
+Sclerocystic Ovaries	0
+Secondary Biliary Cholangitis	0
+Seizures	0
+Seizures, Auditory	0
+Seizures, Focal	0
+Seizures, Sensory	0
+Seizures, Somatosensory	0
+Simple Partial Status Epilepticus	0
+Single Seizure	0
+Skin Neoplasms	0
+Small cell carcinoma of lung	0
+Spontaneous abortion	0
+Squamous cell carcinoma	0
+Squamous cell carcinoma of esophagus	0
+Squamous cell carcinoma of the head and neck	0
+Status Epilepticus	0
+Status Epilepticus, Subclinical	0
+Steatohepatitis	0
+Stomach Neoplasms	0
+Streptozotocin Diabetes	0
+Subfertility, Male	0
+Substance Dependence	0
+Substance Use Disorders	0
+Substance Withdrawal Syndrome	0
+Substance abuse problem	0
+Substance-Related Disorders	0
+Suffering, Physical	0
+Tactile Allodynia	0
+Thrombosis	0
+Thrombus	0
+Thyroid carcinoma	0
+Tonic - clonic seizures	0
+Tonic Seizures	0
+Tumoral calcinosis	0
+Ulcerative Colitis	0
+Undifferentiated carcinoma	0
+Unipolar Depression	0
+Vertiginous seizure	0
+Visual seizure	0
+Weight Gain	0
+Withdrawal Symptoms	0
+familial atrial fibrillation	0
+hearing impairment	0
+leukemia	0
+melanoma	0
+mixed gliomas	1
+nervous system disorder	0
+ovarian neoplasm	0
