@@ -1,4 +1,5 @@
-*/*All.MNN.v1.org.*
+**/All.MNN.v1.org.*
+data/ewce_sct*
 data/EWCE_diseases.dsInf
-data/Disease_expression_data*
+data/*ScaleData*
 **/.ipynb_checkpoints*
