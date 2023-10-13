@@ -8,7 +8,7 @@ Nicola Micali *et al.*, **Molecular programs of regional specification and neura
 
 # Description
 
-- `notebooks/`
+- `notebooks`
   - `1.EWCEanalysis.ipynb`: contains code to perform EWCE analysis, including finding marker genes, SCT-normalization and CellTypeData object.
   - `2.EWCEresults.ipynb`: contains code to reproduce the figures 7A and supplementary 16A in the publication.
   - `3.MarkersAndExpressionData.ipynb`: contains helper functions to gather expression summaries of defined groups of cells, including finding marker genes, scaling expression and gathering expression averages. Used in following figures.
